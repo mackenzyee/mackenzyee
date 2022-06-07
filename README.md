@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mackenzyee
-- 👀 I’m interested in computers, memes, music and sports...
+- 👋 Hi, I’m Mackenzyee
+- 👀 I’m into computers, memes, music and sports...
 - 🌱 I’m currently learning web development
 
 
